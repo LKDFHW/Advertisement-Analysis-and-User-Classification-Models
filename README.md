@@ -16,7 +16,6 @@ This project was developed as part of the **Application Data Analysis** course a
 | Lưu Kiến Đạt           | 21120429   |
 | Nguyễn Quang Định      | 21120433   |
 
-Each member contributed to different components of the ETL pipeline, data preprocessing, mining, and dashboard development.
 For inquiries, feel free to contact us via email: `<StudentID>@student.hcmus.edu.vn`
 
 ---
